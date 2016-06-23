@@ -1,0 +1,4 @@
+F:\dev\other\skeletonwinform\bin\Debug\$safeprojectname$.exe.config
+F:\dev\other\skeletonwinform\obj\Debug\SkeletonWinForm.csprojResolveAssemblyReference.cache
+F:\dev\other\skeletonwinform\obj\Debug\$safeprojectname$.Properties.Resources.resources
+F:\dev\other\skeletonwinform\obj\Debug\SkeletonWinForm.csproj.GenerateResource.Cache
